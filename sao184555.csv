@@ -1,21 +1,3 @@
-# PyMovie Version 3.6.3
-# source: D:/#Okultasi/DATA PENGAMATAN/2022-08-07/Sao184555/21_30_30
-#
-# lunar background: False
-# yellow mask = default: False
-#
-# aperture name: obj
-# ____ aperture size: 31
-# ____ x,y: (361, 400)
-# ____ threshold: 3010
-# ____ def mask radius: 3.2
-# ____ color: yellow
-# ____ joggable: True
-# ____ auto textOut: True
-# ____ thumbnail source: True
-# ____ csv output order: 1
-#
-# date at frame 0: 2022-08-07
 FrameNum,timeInfo,signal-obj,appsum-obj,avgbkg-obj,stdbkg-obj,nmaskpx-obj,maxpx-obj,xcentroid-obj,ycentroid-obj
 2501.00,[14:31:20.7269980],59845.00,1192176.00,30603.53,1495.24,-37,38768,373.00,395.00
 2502.00,[14:31:20.7470934],45838.00,1177712.00,30591.18,1527.82,-37,38320,373.00,395.00
